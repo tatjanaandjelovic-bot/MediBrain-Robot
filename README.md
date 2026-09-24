@@ -7,7 +7,7 @@
 Das größte Problem im modernen Gesundheitswesen ist der massive administrative Overhead. Ärzte und Pflegekräfte verbringen bis zu 40 % ihrer Arbeitszeit mit dem Tippen von Berichten am Computer statt am Patienten. Gleichzeitig ist das fehlerfreie manuelle Zählen von OP-Besteck unter Stress eine menschliche Fehlerquelle. 
 Meine persönliche Motivation ist es, auf dem höchsten IT-Niveau die Schnittstelle zwischen physischer Robotik und dem "Gehirn" einer lernfähigen KI zu gestalten. Das Thema ist hochrelevant, um medizinisches Personal massiv zu entlasten und die Patientensicherheit im OP durch intelligente Maschinensteuerung zu revolutionieren.
 
-## Daten und KI-Techniken
+## Daten und KI-Technologien 
 Das Projekt stützt sich auf drei wesentliche Datenquellen:
 1. Audiodaten: Live-Sprachaufnahmen von Arzt-Patienten-Gesprächen im Behandlungszimmer.
 2. Visuelle Daten: Kamera-Feeds aus dem Operationssaal zur Erkennung und Lokalisierung von medizinischen Instrumenten.
