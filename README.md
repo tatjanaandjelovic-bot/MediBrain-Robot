@@ -1,6 +1,6 @@
 # MediBrain-Robot (Ambient AI & Assistive Robotics im Spital)
 
-## Ihre Idee in Kürze
+## Zusammenfassung
 **MediBrain-Robot** ist ein intelligentes, softwarebasiertes KI-System gekoppelt mit physischer Assistenzrobotik für den medizinischen Alltag (Spitäler und Operationssäle). Das System fungiert als "unsichtbarer digitaler Mitleser und Mitdenker". Es kombiniert hochentwickelte Sprachverarbeitung (Ambient AI), um Patientengespräche live und rechtssicher zu dokumentieren, mit Computer-Vision-gesteuerter Robotik, die im OP-Saal medizinische Instrumente vollautomatisch trackt, zählt und dem OP-Personal assistiert.
 
 ## Hintergrund
