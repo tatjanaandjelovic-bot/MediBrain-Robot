@@ -1,6 +1,8 @@
 # MediBrain-Robot
 
 ## Summary
+**MediBrain-Robot** kombiniert Sprachverarbeitung (Ambient AI) für die rechtssichere Live-Dokumentation von Patientengesprächen mit Computer-Vision-gesteuerter Robotik im Operationssaal zur automatischen Instrumentenerkennung und -zählung.
+
 ## Zusammenfassung
 **MediBrain-Robot** kombiniert Sprachverarbeitung (Ambient AI) für die rechtssichere Live-Dokumentation von Patientengesprächen mit Computer-Vision-gesteuerter Robotik im Operationssaal zur automatischen Instrumentenerkennung und -zählung.
 
